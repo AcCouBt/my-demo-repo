@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShopApp", "CoffeeShopApp\CoffeeShopApp.csproj", "{77E580C5-FB8F-471F-A4FA-C2E04C0598AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShopApp.UnitTests", "CoffeeShopApp.UnitTests\CoffeeShopApp.UnitTests.csproj", "{2EB40384-FDBD-4CDD-AC33-24B3C4EF5C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E580C5-FB8F-471F-A4FA-C2E04C0598AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E580C5-FB8F-471F-A4FA-C2E04C0598AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E580C5-FB8F-471F-A4FA-C2E04C0598AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E580C5-FB8F-471F-A4FA-C2E04C0598AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB40384-FDBD-4CDD-AC33-24B3C4EF5C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB40384-FDBD-4CDD-AC33-24B3C4EF5C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB40384-FDBD-4CDD-AC33-24B3C4EF5C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB40384-FDBD-4CDD-AC33-24B3C4EF5C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
