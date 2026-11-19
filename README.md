@@ -18,3 +18,7 @@ dotnet test
 ```
 
 Author: Muhammad Aashir Siddiqui (02-131212-040)
+
+## Version History
+- v1.0 - Refactored Coffee Shop with unit tests
+- v2.0 - Welcome banner and today's special
