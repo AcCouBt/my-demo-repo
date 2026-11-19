@@ -20,6 +20,9 @@ namespace CoffeeShopApp
         // Same orders as the driver used for the original code.
         public static void RunDemo()
         {
+            Console.WriteLine("===== Coffee Shop App - Version 2.0 =====");
+            Console.WriteLine("Today's special: Coffee + Sandwich combo!");
+            Console.WriteLine();
             CoffeeShop shop = new CoffeeShop();
             shop.UpdateMenu(350, 450);
 
